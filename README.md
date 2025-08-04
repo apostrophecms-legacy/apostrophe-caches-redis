@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 This module enhances `apostrophe-caches`, the standard caching mechanism of Apostrophe, to use Redis rather than MongoDB.
 
 To use it, first npm install it in your project:
